@@ -1,0 +1,17 @@
+{
+  "name": "amflex-rest-api",
+  "version": "1.0.0",
+  "description": "AmFlex Api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mfarhank",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "postgrejs": "^2.19.0",
+    "postgresql-client": "^2.13.0"
+  },
+  "keywords": []
+}
